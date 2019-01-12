@@ -1,4 +1,4 @@
-# Web scraping using BeautufulSoup
+# Web scraping using BeautifulSoup
 
 Gently scraped one of the biggest property listing website for condo market in Bangkok, Thailand. End result csv file has 50k+ listings with Lat/Long locations and current asking price.
 
